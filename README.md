@@ -1,4 +1,5 @@
 CIFAR-10 Image Classifier Using MLP Neural Network
+
 In Collaboration with Anudeep Yeijala
 
 Dataset Description:
